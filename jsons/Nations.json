@@ -30,6 +30,7 @@
 		"uniqueName": "War of The People",
 		"uniques": ["[-55]% maintenance costs <for [All] units> <when at war>",
 		["[+3 Production] [in all cities] <in cities connected to the capital>",
+		["[+2 Production] from every [Strategic resource]","Double quantity of [Wheat] produced",
 
 		"outerColor": [5, 94, 14],
 		"innerColor": [6, 51, 11],
